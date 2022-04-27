@@ -20,11 +20,11 @@ Primeiros Passos em HTML:
 
 Pauta fotográfica da turma:
 
-- [Resultado;](https://franciscocaleiro.github.io/PT05/)
-- [Repositório;](https://github.com/franciscocaleiro/PT05)
+- [Resultado;]
+- [Repositório;]
 
-[passo1]: https://franciscocaleiro.github.io/estrutura-html/documento.html
-[passo2]: https://franciscocaleiro.github.io/estrutura-html/headings.html
-[passo3]: https://franciscocaleiro.github.io/estrutura-html/paragraphs.html
-[passo4]: https://franciscocaleiro.github.io/estrutura-html/links.html
-[passo5]: https://franciscocaleiro.github.io/estrutura-html/imagens.html
+[passo1]: 
+[passo2]: 
+[passo3]: 
+[passo4]: 
+[passo5]: 
